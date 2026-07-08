@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sivakp448.github.io/sivakp/sitemap.xml
